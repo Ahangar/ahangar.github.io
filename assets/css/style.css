@@ -69,7 +69,7 @@ a {
 
 #blog .img-fluid {
   width: 100%;
-  height: 20vw;
+  min-height: 20vw;
   /* object-fit: cover; */
 }
 /* my additions ends-------------------------- */
